@@ -1,0 +1,17 @@
+write a python program to store
+1. 1st year percentage of students in an array 
+ 
+
+Task: Write a finction for sorting array of floating point numbers in ascending order using a) selection sort  b) bubble sort and display top 5 scores.(input in float type)
+
+to writéin writup
+aim (how to write?)--to write a program for selstion sot=rt and 
+
+
+
+prob statement:
+theory: bublesort: concept,purpose and exapmle
+same for selection sort
+and then SS of program 
+and output
+conclusion: mention your learnings not like"Thus i have learnt bubble and selection sort"
